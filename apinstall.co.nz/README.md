@@ -1,4 +1,4 @@
 # Acoustic Panel Installation
 https://www.apinstall.co.nz
 
-<img width="2940" height="8524" alt="Site Capture Loading..." src="https://github.com/user-attachments/assets/df5eaa84-11ed-4869-9318-cf0fbe6d72b3" />
+<img alt="Site Capture Loading..." src="https://github.com/user-attachments/assets/fe72ffaa-4fec-4853-a47a-81808200e4d8" />
